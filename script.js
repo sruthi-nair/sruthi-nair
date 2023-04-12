@@ -1,4 +1,4 @@
-// typing animation
+// typing animations
 
 // var typed = new Typed(".typing",{
 //     strings:["Web Designer", "UI/UX Designer", "Graphic Designer"],
